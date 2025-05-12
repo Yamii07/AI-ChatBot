@@ -22,8 +22,8 @@ An intelligent AI-powered chatbot that communicates with users via **voice input
 1. **Clone the repository** (or download the project folder):
 
 ```bash
-git clone https://github.com/yourusername/ai-voice-chatbot.git
-cd ai-voice-chatbot
+git clone https://github.com/Yamii07/Ai-Voice-Chatbot.git
+cd AI-Voice-Chatbot
 python3 chatbot.py
 ```
 
